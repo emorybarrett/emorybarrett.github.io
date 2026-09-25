@@ -1,10 +1,10 @@
 ---
-title: Elements
+title: Research
 feature_text: |
-  A demo of Markdown and HTML includes
+  A place for my current projects and research interests
 feature_image: "https://picsum.photos/2560/600?image=873"
-excerpt: "A demo of Markdown and HTML includes"
-aside: true
+excerpt: "A place for my current projects and research interests"
+aside: false
 ---
 
 # Heading 1
