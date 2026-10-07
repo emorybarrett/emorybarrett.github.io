@@ -11,26 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Oceanography, Rutgers University, 2031 (expected)
+* B.S. in Marine Science, Rutgers University, 2026
+* A.S. in Environmental Science, Raritan Valley Community College, 2024
 
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
   * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Supervisor: Dr. Katyanne Shoemaker
 
 * Fall 2015: Research Assistant
   * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Duties included: 
+  * Supervisor: Dr. Michael Acquafredda, Mr. Sean Towers
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2023 - Spring 2024: Sttudent Technician: 
+  * Raritan Valley Community College
+  * Duties included: 
+  * Supervisor: Dr. Emilie Stander
   
 Skills
 ======
